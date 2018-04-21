@@ -1,0 +1,5 @@
+x = int(input("Enter var 1:\n"))
+y = int(input("Enter var 2:\n"))
+z = int(input("Enter var 3:\n"))
+res = int((x+y+z)/3)
+print("Average is:", res)
